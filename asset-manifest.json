@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newsMoneyApp/static/css/main.6a41c2be.css",
+    "main.js": "/newsMoneyApp/static/js/main.5670b310.js",
+    "static/js/787.01fe796a.chunk.js": "/newsMoneyApp/static/js/787.01fe796a.chunk.js",
+    "static/media/loading.gif": "/newsMoneyApp/static/media/loading.f4d71b7e2329eafbaea7.gif",
+    "index.html": "/newsMoneyApp/index.html",
+    "main.6a41c2be.css.map": "/newsMoneyApp/static/css/main.6a41c2be.css.map",
+    "main.5670b310.js.map": "/newsMoneyApp/static/js/main.5670b310.js.map",
+    "787.01fe796a.chunk.js.map": "/newsMoneyApp/static/js/787.01fe796a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a41c2be.css",
+    "static/js/main.5670b310.js"
+  ]
+}
