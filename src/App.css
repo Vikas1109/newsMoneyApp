@@ -1,0 +1,41 @@
+
+#navbarSupportedContent{
+  transform: translateX(10rem);
+} 
+
+
+ .nav-item{
+  padding: 0px 2rem;
+}
+
+
+.spin{
+
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+
+.newsCategory .btn{
+  
+  
+  margin-top: 2rem;
+}
+
+
+@media (min-width:768px) and (max-width:991px) {
+
+
+  .card{
+   
+    padding: 2rem;
+  }
+  
+  .newsCategory{
+    display: block;
+    
+  }
+}
